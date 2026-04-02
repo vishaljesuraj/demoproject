@@ -1,2 +1,2 @@
 echo "Welcome to the demo project"
-    echo " This is a sample code"
+    echo " This is just a sample code"
